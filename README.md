@@ -1,7 +1,9 @@
 Usage:  
 1. In your command line, go in source code directory.  
-2. Run> make all  
-3. Run> ./cacti C B A TECH RWP ERP EWP NSubbanks	(or ./cacti C B A TECH NSubbanks)  
+2. Run> chmod 777 makefile (just to make sure that you have the required permissions to go on)  
+3. Run> ./makefile  
+3. Run> make all  
+4. Run> ./cacti C B A TECH RWP ERP EWP NSubbanks	(or ./cacti C B A TECH NSubbanks)  
   
 where:  
   
