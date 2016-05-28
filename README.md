@@ -10,7 +10,7 @@ where:
 C - cache size in bytes  
 B - line size in bytes  
 A - cache associativity  
-TECH - technology generation (μm)  
+TECH - technology node (μm)  
 RWP - read-write port  
 ERP - exclusive read port  
 EWP - exclusive write port  
